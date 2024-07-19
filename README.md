@@ -7,7 +7,9 @@ An actuator that can be used to precisely control angular or linear position, ve
 # Equipment list and experiment set-up :
 
 Arduino Uno
+
 Servo Motor
+
 Wires
 
 # Experiment Procedure:
