@@ -13,7 +13,7 @@ Servo Motor
 Wires
 
 # Experiment Procedure:
-We start by connecting the servo motor's power wire to the 5V pin on the Arduino and then connect the signal wire to pin 8. After that, connect the servo motor's ground wire to the GND pin on the Arduino. Finally, we repest the same process for all motors just changing the signal pin (from 8 to 13)
+We start by connecting the servo motor's power wire to the 5V pin on the Arduino and then connect the signal wire to pin 8. After that, connect the servo motor's ground wire to the GND pin on the Arduino. Finally, we repeat the same process for all motors just changing the signal pin (from 8 to 13)
 
 
 Here we can see a schematic view of the circuit
